@@ -1,1 +1,1 @@
-# NxDuck
+# nxduck
